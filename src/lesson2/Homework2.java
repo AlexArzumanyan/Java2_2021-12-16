@@ -12,7 +12,7 @@ public class Homework2 {
     private static final String[][] INCORRECT_SIZE_DATA = new String[][]{
             {"1", "2", "3", "4"},
             {"5", "6", "7", "8"},
-            {"9", "10", "11",},
+            {"9", "10", "11"},
             {"13", "14", "15", "16"}
     };
     private static final String[][] INCORRECT_VALUE_DATA = new String[][]{
